@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player Controllers\Player_Controller.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Enemy Controllers\E6_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy Controllers\E5_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy Controllers\SpawnEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game Controllers\SpawnerCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy Controllers\Enemy_Projectile_Linear.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game Controllers\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game Controllers\ContactDespawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy Controllers\BossAI.cs" Line="66" Column="26" />
+      <File FileName="Assets\Scripts\Player Controllers\Player_Controller.cs" Line="18" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

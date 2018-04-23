@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundary
+  - ScreenBoundary
+  - Enemy
+  - PowerUpsBox
+  - PlayerBullet
+  - EnemyShipTag
+  - PlayerBulletTag
+  - EnemyBulletTag
+  - NBul
+  - SBul
+  - EBul
+  - WBul
+  - NWBul
+  - NEBul
+  - SWBul
+  - SEBul
+  - Powerup-red
+  - Powerup-blue
+  - Ally
+  - Scenary
+  - SpawnerCollider
+  - Boss
+  - Score&Lives
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - AlliesHolderTop
+  - AlliesHolderBot
+  - CollisionIgnore
+  - Player
+  - BotAlly
+  - TopAlly
+  - SpawnerCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
